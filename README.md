@@ -11,7 +11,7 @@ This is my  trial portfolio website. It contains details about me, projects i ha
 ## Setup/Installation Requirements
 
 Open terminal (CTRL ALT T)
-git clone https://github.com/chepkiruibetty/portfolio
+git clone https://github.com/chepkiruibetty/portfolioattempt
 cd portfolio
 easy-to-understand
 use atom . or code . to open the clone repo on Atom or VS-code respectively
